@@ -9,14 +9,19 @@ cors=CORS(app)
 model=pickle.load(open('LinearRegressionModel.pkl','rb'))
 car=pd.read_csv('Cleaned_Car_data.csv')
 
+#For Main page
+
 @app.route('/')
 def home():
     return render_template('index.html')
+
+#For Analysis Page
 
 @app.route('/Analysis')
 def discover():
     return render_template('Analysis.html')
 
+# predection
 
 @app.route('/Predection',methods=['GET','POST'])
 def index():
