@@ -13,10 +13,10 @@ I have followed Agile Scrum Methodology to build this project. Agile Scrum Metho
 * Week1	- Learning and researching about data Analysis. 
 * Week2	- Implementation of analysis dashboard.
 * Week3 -	Implementation of car price prediction.
-* Week4 -	worked on UI/UX
+* Week4 -	worked on UI/UX and hosted webpage.
 
 ## About Website ##
-A website for automobile Industry, in this website you can find Analysis on two-wheeler with an interactive dashboard done with Tableau and second part is car price predictor for selling the car done with machine learning algorithm
+A website for automobile Industry, in this website you can find Analysis on two-wheeler with an interactive dashboard done with Tableau and second part is car price predictor for selling the car done with machine learning algorithm.
 
 ## Current Look of Website ##
 
