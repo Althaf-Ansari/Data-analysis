@@ -1,7 +1,7 @@
 # Data Analysis Project #
 
 ## Deployed Link of the project ##
-This is the link of the web application after deploying the code on heroku: https://microsoft-data-analysis.herokuapp.com/
+This is the link of the web application after deploying the code on heroku: https://app-data-analysis.herokuapp.com/
 ## Problem Statement ##
 Data Analysis  
 Develop an application to demonstrate how the Automotive Industry could harness data to take informed decisions.
